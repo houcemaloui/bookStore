@@ -1,0 +1,17 @@
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\bin\Debug\Book Store.exe.config
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\bin\Debug\Book Store.exe
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\bin\Debug\Book Store.pdb
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book Store.csprojAssemblyReference.cache
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book_Store.Form1.resources
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book_Store.Properties.Resources.resources
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book Store.csproj.GenerateResource.cache
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book Store.csproj.CopyComplete
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book Store.exe
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book Store.pdb
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\bin\Debug\bookdb.mdf
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\bin\Debug\bookdb_log.ldf
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book_Store.Form3.resources
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book_Store.Form_cat.resources
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book_Store.Popup_categorie_succ.resources
+C:\Users\HOUCEM\source\repos\Book Store\Book Store\obj\Debug\Book_Store.Popup_book_succ.resources
